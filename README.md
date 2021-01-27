@@ -1,7 +1,4 @@
-# CMI Issue Tracker
+# CMI Korean Translation Project
 
-This is the official CMI issue tracker. 
-
-Aside from issues you can also request features for CMI here.
-
-If you are having any issues regarding payments and/or other private matters, please message `Zrips` on [Spigot](https://www.spigotmc.org/conversations/add?to=Zrips).
+CMI 플러그인 한글화 프로젝트
+- Trigger Reactor Community
